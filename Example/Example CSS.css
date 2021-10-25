@@ -1,3 +1,7 @@
+/* 
+    'border-radius' gives the containter rounded edges
+    'margin' gives space between the container and the sides of the window itself
+*/
 .container {
     height: 200px;
     width: 480px;
@@ -7,6 +11,10 @@
     background-color: Oldlace;
 }
 
+/* 
+    'text-shadow' gives the text background shading, emulating light
+    'margin-top' allows change in placement vertically
+*/
 #name {
     font-size: 32px;
     font-family: Helvetica, sans-serif;
@@ -23,6 +31,9 @@
     margin: 5px;
 }
 
+/* 
+
+*/
 .contact {
     padding: 24px;
     margin-bottom: 32px;
