@@ -1,0 +1,46 @@
+.container {
+    height: 200px;
+    width: 480px;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: lightsalmon;
+}
+
+#name {
+    font-size: 32px;
+    font-family: "Courier New", sans-serif;
+    text-shadow: 2px 1px salmon;
+    text-align: left;
+    margin-top: 10px;
+    color: MidnightBlue;
+}
+
+#job {
+    font-size: 24px;
+    font-family: "Courier New", sans-serif;
+    text-align: left;
+    margin: 5px;
+}
+
+.contact {
+    padding: 24px;
+    margin-bottom: 32px;
+    font-size: 5px;
+}
+
+#email {
+    font-family: "Courier New";
+    color: black;
+}
+
+#address {
+    float: left;
+    font-family: 'Courier New', Courier, sans-serif;
+}
+
+img {
+    align-content: right;
+    max-width: 20%;
+    max-height: 20%;
+}
