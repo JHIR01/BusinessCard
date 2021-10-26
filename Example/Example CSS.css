@@ -1,0 +1,40 @@
+.container {
+    height: 200px;
+    width: 480px;
+    margin: 15px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: Oldlace;
+}
+
+#name {
+    font-size: 32px;
+    font-family: Helvetica, sans-serif;
+    text-shadow: 2px 1px #d3d3d3;
+    text-align: center;
+    margin-top: 10px;
+    color: MidnightBlue;
+}
+
+#job {
+    font-size: 24px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+    margin: 5px;
+}
+
+.contact {
+    padding: 24px;
+    margin-bottom: 32px;
+    font-size: 5px;
+}
+
+#email {
+    font-family: monospace;
+    color: DarkSlateGrey;
+}
+
+#address {
+    float: right;
+    font-family: cursive, sans-serif;
+}
